@@ -29,7 +29,7 @@ The great part about Spring Cloud is that it builds the concept of Spring Boot. 
 
 There are the following components:
 - Configuration
-- Service Discovery
+- [Service Discovery](service-discovery)
 - Circuit Breakers
 - Routing and Messaging
 - API Gateway
